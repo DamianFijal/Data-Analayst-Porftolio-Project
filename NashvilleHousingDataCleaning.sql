@@ -60,7 +60,7 @@ WHERE a.PropertyAddress IS NULL
 
 -----------------------------------------------------------------------
 
--- Breaking out Address into Individual COlumns (Address, City, State)
+-- Breaking out Address into Individual Columns (Address, City, State)
 
 SELECT PropertyAddress
 FROM NashvilleData
